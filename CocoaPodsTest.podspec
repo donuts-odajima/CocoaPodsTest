@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = 'CocoaPodsTest'
-  spec.version      = '1.0.2'
+  spec.version      = '1.0.3'
   spec.summary      = 'Test.'
   spec.authors      = { 'Naoki Odajima' => 'odajima.naoki@donuts.ne.jp' }
   spec.homepage     = 'https://github.com/donuts-odajima/CocoaPodsTest.git'
